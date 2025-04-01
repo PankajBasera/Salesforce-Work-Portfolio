@@ -10,23 +10,6 @@ This repository contains:
 - **Automation** – Flows, Process Builders, and Workflows.
 - **Projects** – Real-world applications built on the Salesforce platform.
 
-## 🔧 Getting Started
-To use or contribute to this repository, follow these steps:
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/salesforce-portfolio.git
-   ```
-2. **Navigate to the project folder**:
-   ```sh
-   cd salesforce-portfolio
-   ```
-3. **Explore the code and examples**
-
-## 🚀 Projects
-| Project Name | Description |
-|-------------|-------------|
-| **Lead Management System** | Automates lead assignment using Apex and Flows |
-| **Custom LWC Dashboard** | Interactive dashboard built with LWC & SOQL |
 
 ## 🛠 Technologies Used
 - **Salesforce Apex**
@@ -37,9 +20,6 @@ To use or contribute to this repository, follow these steps:
 
 ## 🤝 Contributing
 Feel free to fork this repository, submit pull requests, or suggest improvements. Contributions are welcome! 🎉
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ---
 
